@@ -1,4 +1,4 @@
-
+#Version 1.0
 # Autor: Luis
 # Proyecto: PyBudget & Calc Tool
 # Derechos Reservados © 2026
